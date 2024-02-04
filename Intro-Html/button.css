@@ -9,6 +9,7 @@
     margin-right: 10px;
     transition: opacity 0.15s;
     vertical-align: top;
+    padding-bottom: 2;
 }
 .subscribe_button:hover{
     opacity: 0.5;
